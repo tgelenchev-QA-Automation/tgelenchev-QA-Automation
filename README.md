@@ -18,7 +18,7 @@ Junior QA Automation Engineer focused on UI and API testing.
 UI automation tests for the Swag Labs demo application using Selenium WebDriver and NUnit.
 
 Repository:  
-https://github.com/tgelenchev-QA-Automation/selenium-swaglabs-tests
+https://github.com/tgelenchev-QA-Automation/selenium-swaglabs--tests
 
 ### Movie API Tests
 API testing project using Postman collections.
