@@ -41,6 +41,11 @@ https://github.com/tgelenchev-QA-Automation/movie-api-tests
 - Postman
 - Git
 
+## About Me
+
+I am a Junior QA Automation Engineer with hands-on experience in UI and API testing.  
+My goal is to build reliable automation tests and contribute to improving software quality.
+
 ## Contact
 
 Email: tsveta.gelenchev@gmail.com  
