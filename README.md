@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Tsvetan Gelenchev
 
-<!--
-**tgelenchev-QA-Automation/tgelenchev-QA-Automation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior QA Automation Engineer focused on UI and API testing.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Selenium WebDriver
+- Playwright
+- Postman
+- API Testing
+- Manual Testing
+- Git / GitHub
+- C#
+
+## QA Automation Projects
+
+### Selenium Swag Labs Tests
+UI automation tests for the Swag Labs demo application using Selenium WebDriver and NUnit.
+
+### API Testing Project
+API tests using Postman collections.
+
+## Tech Stack
+
+- Selenium WebDriver
+- NUnit
+- Playwright
+- Postman
+- Git
+
+## Contact
+
+Email: tsveta.gelenchev@gmail.com  
+GitHub: https://github.com/tgelenchev-QA-Automation
