@@ -14,6 +14,11 @@ Junior QA Automation Engineer focused on UI and API testing.
 
 ## QA Automation Projects
 
+
+### QA Project — Foody Web App | Manual Testing
+
+Repository:
+
 ### Selenium Swag Labs Tests
 UI automation tests for the Swag Labs demo application using Selenium WebDriver and NUnit.
 
