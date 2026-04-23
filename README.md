@@ -55,5 +55,5 @@ My goal is to build reliable automation tests and contribute to improving softwa
 
 ## Contact
 
-Email: tsveta.gelenchev@gmail.com  
+Email: tsvetan.gelenchev@gmail.com  
 GitHub: https://github.com/tgelenchev-QA-Automation
