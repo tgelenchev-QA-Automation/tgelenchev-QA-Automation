@@ -16,8 +16,10 @@ Junior QA Automation Engineer focused on UI and API testing.
 
 
 ### QA Project — Foody Web App | Manual Testing
+Manual test cases and bug reports for the Foody web application covering user registration, authentication, profile management, and food CRUD operations.
 
 Repository:
+https://github.com/tgelenchev-QA-Automation/Manual_Testing.git
 
 ### Selenium Swag Labs Tests
 UI automation tests for the Swag Labs demo application using Selenium WebDriver and NUnit.
