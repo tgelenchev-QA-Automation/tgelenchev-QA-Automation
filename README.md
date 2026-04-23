@@ -14,6 +14,11 @@ Junior QA Automation Engineer focused on UI and API testing.
 
 ## QA Automation Projects
 
+### QA Project — Movie Catalog API | Back-end Testing
+Back-end API automation tests for the Movie Catalog application using C#, RestSharp and NUnit.
+
+Repository:
+
 
 ### QA Project — Foody Web App | Manual Testing
 Manual test cases and bug reports for the Foody web application covering user registration, authentication, profile management, and food CRUD operations.
